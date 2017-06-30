@@ -1,3 +1,4 @@
 # haskpie
 
-Haskpie is a Haskell-like language with seamless Python interop.
+Haskpie is a language with seamless Python interop.
+It has Haskell-like syntax and OCaml-like semantics.

@@ -24,6 +24,7 @@ library
   default-language:    Haskell2010
   default-extensions:  TupleSections
                      , PatternGuards
+                     , GADTs
  
 executable haskpic
   hs-source-dirs:      haskpie-compiler

@@ -1,0 +1,2 @@
+fib :: Int -> IO ()
+fib2 :: Int -> [Int]
