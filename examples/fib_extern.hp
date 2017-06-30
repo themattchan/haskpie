@@ -1,0 +1,6 @@
+import Fib (fib,fib2)
+
+main :: IO ()
+main = do
+  fib 10
+  print $ fib2 20
